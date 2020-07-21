@@ -1,5 +1,5 @@
 <!-- insert background image -->
-<img src="./src/background.jpg" style="height: 50px;"/>
+![avatar](https://raw.githubusercontent.com/Lvue-YY/Lvue-YY/master/src/background.jpg)
 
 
 ## hello

@@ -1,8 +1,5 @@
 <!-- insert background image -->
-<img src="./src/background.jpg" />
+<img src="./src/background.jpg" style="height: 50px;"/>
 
-<div style="position: absolute; top: 50px; width: 100px; height:100px; background-color: red;">
-    
-</div>
 
 ## hello

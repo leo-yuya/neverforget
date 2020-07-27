@@ -3,4 +3,4 @@
 
 <!-- insert background image -->
 ## 🛸 Hello World
-Here's Love-YY, a university student. I major in software engineering 💻.
+Here's Love-YY, a university student who majors in software engineering 💻. I like front-end technologies

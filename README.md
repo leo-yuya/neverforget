@@ -12,3 +12,5 @@
 2. 🗣 Commented on [#2539](https://github.com//vuejs/vuepress/issues/2539) in [vuejs/vuepress](https://github.com//vuejs/vuepress)
 3. ❗️ Opened issue [#2539](https://github.com//vuejs/vuepress/issues/2539) in [vuejs/vuepress](https://github.com//vuejs/vuepress)
 <!--END_SECTION:activity-->
+
+![](https://visitor-badge.glitch.me/badge?page_id=Love-YY.Love-YY)

@@ -7,7 +7,7 @@
 - Front-end technologies and data science are my favourites ( better to combine them) ✨.
 - In leisure time, I'd like to play ![OW](https://blz.nosdn.127.net/1/overwatch/images/common/overwatch.ico) or APEX ( sry, I forget that I have no leisure time) 😵.
 
-## 🚴‍♂️ My Recent Work
+## 🏂 My Recent Work
 <table>
 <tr>
 <td valign="top" width="50%">

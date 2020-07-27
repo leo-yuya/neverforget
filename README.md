@@ -1,40 +1,16 @@
+<!-- insert background image -->
+![avatar](https://raw.githubusercontent.com/Love-YY/Love-YY/master/src/background.png)
+
+<!-- insert background image -->
+## 🛸 Hello World
+- Here's Love-YY, a university student who majors in software engineering 💻. 
+- Front-end technologies and data science are my favourites ( better to combine them) ✨.
+- In leisure time, I'd like to play ![OW](https://blz.nosdn.127.net/1/overwatch/images/common/overwatch.ico) or APEX ( sry, I forget that I have no leisure time) 😵.
+
+<!--START_SECTION:activity-->
 1. 🗣 Commented on [#2539](https://github.com//vuejs/vuepress/issues/2539) in [vuejs/vuepress](https://github.com//vuejs/vuepress)
 2. 🗣 Commented on [#2539](https://github.com//vuejs/vuepress/issues/2539) in [vuejs/vuepress](https://github.com//vuejs/vuepress)
-
 3. ❗️ Opened issue [#2539](https://github.com//vuejs/vuepress/issues/2539) in [vuejs/vuepress](https://github.com//vuejs/vuepress)
-4. undefined
-5. undefined
-6. undefined
-7. undefined
+<!--END_SECTION:activity-->
 
-8. undefined
-9. undefined
-10. undefined
-
-11. undefined
-
-12. undefined
-13. undefined
-14. undefined
-15. undefined
-16. undefined
-17. undefined
-18. undefined
-
-19. undefined
-20. undefined
-
-21. undefined
-
-22. undefined
-23. undefined
-24. undefined
-25. undefined
-26. undefined
-27. undefined
-28. undefined
-
-29. undefined
-30. undefined
-
-31. undefined
+![](https://visitor-badge.glitch.me/badge?page_id=Love-YY.Love-YY)

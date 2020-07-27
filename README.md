@@ -3,4 +3,6 @@
 
 <!-- insert background image -->
 ## 🛸 Hello World
-Here's Love-YY, a university student who majors in software engineering 💻. I like front-end technologies
+- Here's Love-YY, a university student who majors in software engineering 💻. 
+- Front-end technologies and data science are my favourites ✨.
+- 

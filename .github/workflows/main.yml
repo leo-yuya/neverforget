@@ -1,8 +1,9 @@
 name: Update README FOR GITHUB WORK
 
 on:
+  push:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '* */1 * * *'
 
 jobs:
   build:

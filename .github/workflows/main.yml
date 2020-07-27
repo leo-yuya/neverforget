@@ -1,7 +1,6 @@
 name: Update README FOR GITHUB WORK
 
 on:
-  push:
   schedule:
     - cron: '0 0 * * *'
 

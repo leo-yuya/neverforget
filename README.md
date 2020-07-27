@@ -3,4 +3,4 @@
 
 <!-- insert background image -->
 ## 🛸 Hello World
-Here's Love-YY, and I'm still in college.
+Here's Love-YY, a university student. 

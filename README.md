@@ -8,3 +8,7 @@
 - In leisure time, I'd like to play ![OW](https://blz.nosdn.127.net/1/overwatch/images/common/overwatch.ico) or APEX ( sry, I forget that I have no leisure time) 😵.
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2539](https://github.com//vuejs/vuepress/issues/2539) in [vuejs/vuepress](https://github.com//vuejs/vuepress)
+2. 🗣 Commented on [#2539](https://github.com//vuejs/vuepress/issues/2539) in [vuejs/vuepress](https://github.com//vuejs/vuepress)
+3. ❗️ Opened issue [#2539](https://github.com//vuejs/vuepress/issues/2539) in [vuejs/vuepress](https://github.com//vuejs/vuepress)
+<!--END_SECTION:activity-->

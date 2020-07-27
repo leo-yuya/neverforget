@@ -1,0 +1,25 @@
+name: Update README FOR GITHUB WORK
+
+on:
+  push:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Create README.md
+        uses: actions-js/profile-readme@v1
+        with:
+          username: Love-YY
+          github_token: ${{secrets.ACCESS_TOKEN}}
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{secrets.ACCESS_TOKEN}}

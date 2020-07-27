@@ -11,20 +11,11 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
-
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 </td>
 <td valign="top" width="50%">
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2539](https://github.com//vuejs/vuepress/issues/2539) in [vuejs/vuepress](https://github.com//vuejs/vuepress)
-2. 🗣 Commented on [#2539](https://github.com//vuejs/vuepress/issues/2539) in [vuejs/vuepress](https://github.com//vuejs/vuepress)
-3. ❗️ Opened issue [#2539](https://github.com//vuejs/vuepress/issues/2539) in [vuejs/vuepress](https://github.com//vuejs/vuepress)
-<!--END_SECTION:activity-->
+
 </td>
 </tr>
 </table>

@@ -97,4 +97,8 @@ if __name__ == "__main__":
     )
     rewritten = replace_chunk(rewritten, "blog", blogs_md)
 
+    time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    time_md = "Automatically updated on " + time
+    rewritten = replace_chunk(rewritten, "time", time_md)
+
     readme.open("w").write(rewritten)

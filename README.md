@@ -37,4 +37,6 @@
 </tr>
 </table>
 
-<center>The above is automatically updated on</center>
+<p align="center">
+  hh
+</p>

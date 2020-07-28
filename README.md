@@ -12,7 +12,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🚴‍♀️ <font color=red>Recent Events</font>
+#### 🚴‍♀️ `Recent Events`
 
 <!-- event starts -->
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/452914c1072ebf46d0c251df4bfaccaead09cd90 target='_blank'>Love-YY/Love-YY Update README.md</a> - 2020-07-28
@@ -24,7 +24,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🏄‍♂️ Current Blogs
+#### 🏄‍♂️ `Current Blogs`
 
 <!-- blog starts -->
 * <a href=https://www.flynoodle.xyz/views/blog/Blog%E4%B8%AD%E4%BD%BF%E7%94%A8Vuetify.html target='_blank'> Blog 中使用 Vuetify</a> - 2020-07-27

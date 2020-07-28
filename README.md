@@ -7,11 +7,12 @@
 - Front-end technologies and data science are my favourites ( better to combine them) ✨.
 - In leisure time, I'd like to play ![OW](https://blz.nosdn.127.net/1/overwatch/images/common/overwatch.ico) or APEX ( sry, I forget that I have no leisure time) 😵.
 ## 🌈 My Recent Work  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
+
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="55%">
 
-#### 🏋️‍♀️ Recent events
+#### ⚔ Recent Events
 
 <!-- event starts -->
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/9eeebf7b99de0076db041b0cb2ba625814aecd27 target='_blank'>Love-YY/Love-YY Update README.md</a> - 2020-07-28
@@ -21,9 +22,9 @@
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/c730b35db85b8b089ce939f3516fdf69529fe8f1 target='_blank'>Love-YY/Love-YY Update build.py</a> - 2020-07-28
 <!-- event ends -->
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="45%">
 
-#### 🏋️‍♀️ current blogs
+#### 🧸 Current Blogs
 
 <!-- blog starts -->
 * <a href=https://www.flynoodle.xyz/views/blog/Blog%E4%B8%AD%E4%BD%BF%E7%94%A8Vuetify.html target='_blank'> Blog 中使用 Vuetify</a> - 2020-07-27

@@ -11,11 +11,11 @@
 <tr>
 <td valign="top" width="50%">
 <!-- event starts -->
+*pushed* <a href=https://github.com/Love-YY/Love-YY/commits/6ecc1fb387da0903f363efdcfea5289cb02d885f target='_blank'>Love-YY/Love-YY Update build.py</a> - 2020-07-28
 *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/c730b35db85b8b089ce939f3516fdf69529fe8f1 target='_blank'>Love-YY/Love-YY Update build.py</a> - 2020-07-28
 *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/5c94b7fbd32a0487778be83e636342d6da01d362 target='_blank'>Love-YY/Love-YY Update build.py</a> - 2020-07-28
 *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/3e7c56dbcf2850b4a955bb20a67b44b38c487ac0 target='_blank'>Love-YY/Love-YY Fix some mistakes</a> - 2020-07-28
 *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/b0906b89ea582d1d8508d962e0952815a8629870 target='_blank'>Love-YY/Love-YY Test readme bot</a> - 2020-07-28
-*starred* <a href=https://github.com/flutter/flutter target='_blank'>flutter/flutter</a> - 2020-07-28
 <!-- event ends -->
 </td>
 <td valign="top" width="50%">

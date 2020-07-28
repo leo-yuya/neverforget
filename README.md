@@ -14,11 +14,11 @@
 #### 🏋️‍♀️ Recent events
 
 <!-- event starts -->
+* *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/9eeebf7b99de0076db041b0cb2ba625814aecd27 target='_blank'>Love-YY/Love-YY Update README.md</a> - 2020-07-28
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/002b7720623e87f133a3b152f5de4ac89ba62dff target='_blank'>Love-YY/Love-YY Update README.md</a> - 2020-07-28
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/3c7dcba652ba469e85637eddd52e4bb879a5f145 target='_blank'>Love-YY/Love-YY Test change</a> - 2020-07-28
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/6ecc1fb387da0903f363efdcfea5289cb02d885f target='_blank'>Love-YY/Love-YY Update build.py</a> - 2020-07-28
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/c730b35db85b8b089ce939f3516fdf69529fe8f1 target='_blank'>Love-YY/Love-YY Update build.py</a> - 2020-07-28
-* *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/5c94b7fbd32a0487778be83e636342d6da01d362 target='_blank'>Love-YY/Love-YY Update build.py</a> - 2020-07-28
 <!-- event ends -->
 </td>
 <td valign="top" width="40%">

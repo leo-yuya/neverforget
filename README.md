@@ -9,7 +9,7 @@
 ## 🌈 My Recent Work  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="60%">
 
 #### 🏋️‍♀️ Recent events
 
@@ -17,7 +17,7 @@
 
 <!-- event ends -->
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="40%">
 
 #### 🏋️‍♀️ current blogs
 

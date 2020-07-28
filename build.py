@@ -1,4 +1,3 @@
-import feedparser
 import httpx
 import pathlib
 import re

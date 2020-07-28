@@ -10,9 +10,9 @@
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="50%">
 
-#### ⚔ Recent Events
+#### 🚴‍♀️ <font color=red>Recent Events</font>
 
 <!-- event starts -->
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/230b86f59506f7a9a83c456ef8d03001d0a2aba4 target='_blank'>Love-YY/Love-YY Update README.md</a> - 2020-07-28
@@ -22,9 +22,9 @@
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/6ecc1fb387da0903f363efdcfea5289cb02d885f target='_blank'>Love-YY/Love-YY Update build.py</a> - 2020-07-28
 <!-- event ends -->
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="50%">
 
-#### 🧸 Current Blogs
+#### 🏄‍♂️ Current Blogs
 
 <!-- blog starts -->
 * <a href=https://www.flynoodle.xyz/views/blog/Blog%E4%B8%AD%E4%BD%BF%E7%94%A8Vuetify.html target='_blank'> Blog 中使用 Vuetify</a> - 2020-07-27

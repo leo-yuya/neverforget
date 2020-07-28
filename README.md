@@ -15,11 +15,11 @@
 #### 🚴‍♀️ `Recent Events`
 
 <!-- event starts -->
+* *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/40717d37a298103c8fc04d715eef941c25379653 target='_blank'>Love-YY/Love-YY Update README.md</a> - 2020-07-28
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/3769a79686d79549f9d0a0f78ed8dd34261a0643 target='_blank'>Love-YY/Love-YY Update README.md</a> - 2020-07-28
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/452914c1072ebf46d0c251df4bfaccaead09cd90 target='_blank'>Love-YY/Love-YY Update README.md</a> - 2020-07-28
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/230b86f59506f7a9a83c456ef8d03001d0a2aba4 target='_blank'>Love-YY/Love-YY Update README.md</a> - 2020-07-28
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/9eeebf7b99de0076db041b0cb2ba625814aecd27 target='_blank'>Love-YY/Love-YY Update README.md</a> - 2020-07-28
-* *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/002b7720623e87f133a3b152f5de4ac89ba62dff target='_blank'>Love-YY/Love-YY Update README.md</a> - 2020-07-28
 <!-- event ends -->
 </td>
 <td valign="top" width="50%">

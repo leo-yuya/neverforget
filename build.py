@@ -83,7 +83,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 if __name__ == "__main__":
     readme = root / "README.md"
-    readme_contents = readme.open(encoding="utf-8").read()
+    readme_contents = readme.open().read()
 
     events = get_events()
     events_md = "\n".join(
@@ -97,6 +97,4 @@ if __name__ == "__main__":
     )
     rewritten = replace_chunk(rewritten, "blog", blogs_md)
 
-
-
-    readme.open("w", encoding="utf-8").write(rewritten)
+    readme.open("w").write(rewritten)

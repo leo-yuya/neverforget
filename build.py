@@ -87,13 +87,13 @@ if __name__ == "__main__":
 
     events = get_events()
     events_md = "\n".join(
-        ["{action} <a href={url} target='_blank'>{target}</a> - {time}".format(**item) for item in events]
+        ["* {action} <a href={url} target='_blank'>{target}</a> - {time}".format(**item) for item in events]
     )
     rewritten = replace_chunk(readme_contents, "event", events_md)
 
     entries = get_blogs()
     blogs_md = "\n".join(
-        ["<a href={url} target='_blank'>{title}</a> - {date}".format(**entry) for entry in entries]
+        ["* <a href={url} target='_blank'>{title}</a> - {date}".format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(rewritten, "blog", blogs_md)
 

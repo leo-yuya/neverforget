@@ -15,11 +15,11 @@
 #### 🚴‍♀️ `Recent Events`
 
 <!-- event starts -->
+* *pushed* <a href=https://github.com/Love-YY/Love-YY.github.io/commits/e98078288e3cd3f6a6af760583b26344541c4526 target='_blank'>Love-YY/Love-YY.github.io Deploying to master from  @ 5000eec527e20fb3b456f221c5ccd78a93780e27 🚀</a> - 2020-07-28
+* *pushed* <a href=https://github.com/Love-YY/vuepress-theme-fly/commits/5000eec527e20fb3b456f221c5ccd78a93780e27 target='_blank'>Love-YY/vuepress-theme-fly Change blog title again</a> - 2020-07-28
+* *pushed* <a href=https://github.com/Love-YY/Love-YY.github.io/commits/86210cc0d900ad3ac411fecc952fe4bccc8929f2 target='_blank'>Love-YY/Love-YY.github.io Deploying to master from  @ 55067350f56a739cd5f3fac7d3aa9f5bd64f9991 🚀</a> - 2020-07-28
+* *pushed* <a href=https://github.com/Love-YY/vuepress-theme-fly/commits/55067350f56a739cd5f3fac7d3aa9f5bd64f9991 target='_blank'>Love-YY/vuepress-theme-fly Change blog title</a> - 2020-07-28
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/bad500ebe946de0a31227f401e16f6674a376c61 target='_blank'>Love-YY/Love-YY Update README.md</a> - 2020-07-28
-* *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/2104766e26905ee66616d138ae40266b5ed66175 target='_blank'>Love-YY/Love-YY Update build.py</a> - 2020-07-28
-* *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/e7af42c72af207773a8acdef392b7f53e174c1ef target='_blank'>Love-YY/Love-YY Add update time</a> - 2020-07-28
-* *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/40717d37a298103c8fc04d715eef941c25379653 target='_blank'>Love-YY/Love-YY Update README.md</a> - 2020-07-28
-* *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/3769a79686d79549f9d0a0f78ed8dd34261a0643 target='_blank'>Love-YY/Love-YY Update README.md</a> - 2020-07-28
 <!-- event ends -->
 </td>
 <td valign="top" width="50%">
@@ -27,7 +27,7 @@
 #### 🏄‍♂️ `Current Blogs`
 
 <!-- blog starts -->
-* <a href=https://www.flynoodle.xyz/views/blog/Blog%E4%B8%AD%E4%BD%BF%E7%94%A8Vuetify.html target='_blank'> Blog 中使用 Vuetify</a> - 2020-07-27
+* <a href=https://www.flynoodle.xyz/views/blog/%E5%BD%93vuepress%E9%81%87%E4%B8%8Avuetify.html target='_blank'> 当 vuepress 遇上 vuetify</a> - 2020-07-27
 * <a href=https://www.flynoodle.xyz/views/network/%E5%9F%BA%E4%BA%8ETCP&UDP%E7%9A%84%E7%BD%91%E7%BB%9C%E6%96%87%E4%BB%B6%E6%9C%8D%E5%8A%A1.html target='_blank'> 基于 TCP & UDP 的网络文件服务</a> - 2020-07-24
 * <a href=https://www.flynoodle.xyz/views/network/WEB%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%92%8C%E5%AE%A2%E6%88%B7%E7%AB%AF.html target='_blank'> WEB 服务器和客户端</a> - 2020-07-23
 * <a href=https://www.flynoodle.xyz/views/network/WEB%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8.html target='_blank'> WEB 代理服务器</a> - 2020-07-22
@@ -40,7 +40,7 @@
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2020-07-28 21:09:12
+Automatically updated on 2020-07-29 08:14:35
 <!-- time ends -->
 </i>
 </p>

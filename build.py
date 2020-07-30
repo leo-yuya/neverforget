@@ -34,12 +34,12 @@ def get_events():
             tempEvent["url"] = event["payload"]["release"]["html_url"]
         elif (event["type"] == "PushEvent"):
             tempEvent["action"] = "*pushed*"
-            tempEvent["target"] = event["repo"]["name"] + " " + event["payload"]["commits"][0]["message"]
+            tempEvent["target"] = event["repo"]["name"]
             tempEvent["time"] = formatGMTime(event["created_at"])
             tempEvent["url"] = event["payload"]["commits"][0]["url"].replace("api.", "").replace("repos/", "")
         elif (event["type"] == "IssuesEvent"):
             tempEvent["action"] = "*" + event["payload"]["action"] + " issue*"
-            tempEvent["target"] = event["repo"]["name"] + " " + event["payload"]["issue"]["title"]
+            tempEvent["target"] = event["repo"]["name"]
             tempEvent["time"] = formatGMTime(event["created_at"])
             tempEvent["url"] = event["payload"]["issue"]["url"].replace("api.", "").replace("repos/", "")
         else:

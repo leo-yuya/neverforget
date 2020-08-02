@@ -15,11 +15,11 @@
 #### 🚴‍♀️ `Recent Events`
 
 <!-- event starts -->
+* *starred* <a href=https://github.com/tw93/tw93 target='_blank'>tw93/tw93</a> - 2020-08-01
 * *opened issue* <a href=https://github.com/JessicaLim8/JessicaLim8/issues/88 target='_blank'>JessicaLim8/JessicaLim8</a> - 2020-07-31
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/fdea59b43359f55a03aa9a6fd0b4a2792a053d7e target='_blank'>Love-YY/Love-YY</a> - 2020-07-30
 * *starred* <a href=https://github.com/Binaryify/NeteaseCloudMusicApi target='_blank'>Binaryify/NeteaseCloudMusicApi</a> - 2020-07-29
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/0e78f1fbeb8852bf7cbdf806f8cc664305fc1bfd target='_blank'>Love-YY/Love-YY</a> - 2020-07-29
-* *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/f5b37e3d4a41288965678f5dc5d9db95d6d61d82 target='_blank'>Love-YY/Love-YY</a> - 2020-07-29
 <!-- event ends -->
 </td>
 <td valign="top" width="50%">
@@ -40,7 +40,7 @@
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2020-08-01 08:30:47
+Automatically updated on 2020-08-02 08:31:06
 <!-- time ends -->
 </i>
 </p>

@@ -22,7 +22,7 @@
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/abde7c2806501225fb669af7088416dc310f322a target='_blank'>Love-YY/Love-YY</a> - 2020-08-07
 <!-- event ends -->
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
 #### 🏄‍♂️ `Current Blogs`
 

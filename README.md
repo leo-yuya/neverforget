@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td valign="top" width="53%">
+<td valign="top" width="50%">
 
 #### 🚴‍♀️ `Recent Events`
 
@@ -22,7 +22,7 @@
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/fdea59b43359f55a03aa9a6fd0b4a2792a053d7e target='_blank'>Love-YY/Love-YY</a> - 2020-07-30
 <!-- event ends -->
 </td>
-<td valign="top" width="47%">
+<td valign="top" width="50%">
 
 #### 🏄‍♂️ `Current Blogs`
 

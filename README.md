@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td valign="top" width="52%">
+<td valign="top" width="53%">
 
 #### 🚴‍♀️ `Recent Events`
 
@@ -22,7 +22,7 @@
 * *starred* <a href=https://github.com/Binaryify/NeteaseCloudMusicApi target='_blank'>Binaryify/NeteaseCloudMusicApi</a> - 2020-07-29
 <!-- event ends -->
 </td>
-<td valign="top" width="48%">
+<td valign="top" width="47%">
 
 #### 🏄‍♂️ `Current Blogs`
 

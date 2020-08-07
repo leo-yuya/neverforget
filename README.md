@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td valign="top" width="200 px">
+<td valign="top" width="500 px">
 
 #### 🚴‍♀️ `Recent Events`
 

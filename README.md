@@ -15,11 +15,11 @@
 #### 🚴‍♀️ `Recent Events`
 
 <!-- event starts -->
+* *pushed* <a href=https://github.com/Love-YY/Love-YY.github.io/commits/65a0083552ee468912489522d1f7bc4a99899e97 target='_blank'>Love-YY/Love-YY.github.io</a> - 2020-08-08
+* *pushed* <a href=https://github.com/Love-YY/vuepress-theme-fly/commits/dc405563838e35776fdcfc8f29e0cc30403a12fd target='_blank'>Love-YY/vuepress-theme-fly</a> - 2020-08-08
+* *pullrequestd* <a href=https://github.com/Love-YY/vuepress-theme-fly target='_blank'>Love-YY/vuepress-theme-fly</a> - 2020-08-08
 * *starred* <a href=https://github.com/weilanwl/ColorUI target='_blank'>weilanwl/ColorUI</a> - 2020-08-07
 * *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/123c86d8456c09350ad5fb699f0c55f3d8c9dbcd target='_blank'>Love-YY/Love-YY</a> - 2020-08-07
-* *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/33624d533d915d478dca9b4fea316cdc94335526 target='_blank'>Love-YY/Love-YY</a> - 2020-08-07
-* *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/f0908a8d295a75954ed2eac0e035eaad21fe79c9 target='_blank'>Love-YY/Love-YY</a> - 2020-08-07
-* *pushed* <a href=https://github.com/Love-YY/Love-YY/commits/3166b17db9bd57ccb6376179bf1acd86b6ff14f6 target='_blank'>Love-YY/Love-YY</a> - 2020-08-07
 <!-- event ends -->
 </td>
 <td valign="top" width="500 px">
@@ -40,7 +40,7 @@
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2020-08-08 08:31:27
+Automatically updated on 2020-08-09 08:33:01
 <!-- time ends -->
 </i>
 </p>

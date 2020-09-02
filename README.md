@@ -15,11 +15,11 @@
 #### 🚴‍♀️ `Recent Events`
 
 <!-- event starts -->
+* *publicd* <a href=https://github.com/Love-YY/career-and-housing-price-analysis-platform target='_blank'>Love-YY/career-and-housing-price-analysis-platform</a> - 2020-09-01
 * *pushed* <a href=https://github.com/Love-YY/Love-YY.github.io/commits/718e444cd0733206fff342a5b8c1d983f1532fca target='_blank'>Love-YY/Love-YY.github.io</a> - 2020-08-16
 * *pushed* <a href=https://github.com/Love-YY/vuepress-theme-fly/commits/10ba7ffd39f54948bf3bd4422922f0ac87eb8a8a target='_blank'>Love-YY/vuepress-theme-fly</a> - 2020-08-16
 * *pushed* <a href=https://github.com/Love-YY/Love-YY.github.io/commits/63426b685d8e2ab512967e60cd84f5fa591fb79b target='_blank'>Love-YY/Love-YY.github.io</a> - 2020-08-16
 * *pushed* <a href=https://github.com/Love-YY/vuepress-theme-fly/commits/f468726501e271f23581513c3333235bee872785 target='_blank'>Love-YY/vuepress-theme-fly</a> - 2020-08-16
-* *pushed* <a href=https://github.com/Love-YY/Love-YY.github.io/commits/88587500b1a05624d4d146734c0421923ce320af target='_blank'>Love-YY/Love-YY.github.io</a> - 2020-08-16
 <!-- event ends -->
 </td>
 <td valign="top" width="500 px">
@@ -40,7 +40,7 @@
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2020-09-01 08:38:42
+Automatically updated on 2020-09-02 08:35:38
 <!-- time ends -->
 </i>
 </p>

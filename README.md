@@ -15,11 +15,11 @@
 #### 🚴‍♀️ `Recent Events`
 
 <!-- event starts -->
+* *pullrequestd* <a href=https://github.com/notfresh/blog_writers target='_blank'>notfresh/blog_writers</a> - 2020-10-22
+* *pushed* <a href=https://github.com/Love-YY/blog_writers/commits/3f113d4189c6de563a8d4ba34be96f490ec7fab9 target='_blank'>Love-YY/blog_writers</a> - 2020-10-22
+* *forkd* <a href=https://github.com/notfresh/blog_writers target='_blank'>notfresh/blog_writers</a> - 2020-10-22
 * *starred* <a href=https://github.com/TangliziGit/kvs target='_blank'>TangliziGit/kvs</a> - 2020-09-08
 * *publicd* <a href=https://github.com/Love-YY/career-and-housing-price-analysis-platform target='_blank'>Love-YY/career-and-housing-price-analysis-platform</a> - 2020-09-01
-* *pushed* <a href=https://github.com/Love-YY/Love-YY.github.io/commits/718e444cd0733206fff342a5b8c1d983f1532fca target='_blank'>Love-YY/Love-YY.github.io</a> - 2020-08-16
-* *pushed* <a href=https://github.com/Love-YY/vuepress-theme-fly/commits/10ba7ffd39f54948bf3bd4422922f0ac87eb8a8a target='_blank'>Love-YY/vuepress-theme-fly</a> - 2020-08-16
-* *pushed* <a href=https://github.com/Love-YY/Love-YY.github.io/commits/63426b685d8e2ab512967e60cd84f5fa591fb79b target='_blank'>Love-YY/Love-YY.github.io</a> - 2020-08-16
 <!-- event ends -->
 </td>
 <td valign="top" width="500 px">
@@ -40,7 +40,7 @@
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2020-10-22 08:49:16
+Automatically updated on 2020-10-23 08:49:30
 <!-- time ends -->
 </i>
 </p>

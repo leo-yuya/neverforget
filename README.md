@@ -15,11 +15,11 @@
 #### 🚴‍♀️ `Recent Events`
 
 <!-- event starts -->
+* *starred* <a href=https://github.com/chokcoco/CSS-Inspiration target='_blank'>chokcoco/CSS-Inspiration</a> - 2020-11-24
+* *starred* <a href=https://github.com/l-hammer/You-need-to-know-css target='_blank'>l-hammer/You-need-to-know-css</a> - 2020-11-24
 * *starred* <a href=https://github.com/WeiKangJian/QuestionCommunity target='_blank'>WeiKangJian/QuestionCommunity</a> - 2020-11-11
 * *forkd* <a href=https://github.com/WeiKangJian/QuestionCommunity target='_blank'>WeiKangJian/QuestionCommunity</a> - 2020-11-11
 * *pullrequestd* <a href=https://github.com/notfresh/blog_writers target='_blank'>notfresh/blog_writers</a> - 2020-10-22
-* *pushed* <a href=https://github.com/Love-YY/blog_writers/commits/3f113d4189c6de563a8d4ba34be96f490ec7fab9 target='_blank'>Love-YY/blog_writers</a> - 2020-10-22
-* *forkd* <a href=https://github.com/notfresh/blog_writers target='_blank'>notfresh/blog_writers</a> - 2020-10-22
 <!-- event ends -->
 </td>
 <td valign="top" width="500 px">
@@ -40,7 +40,7 @@
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2020-11-24 08:35:42
+Automatically updated on 2020-11-25 08:36:12
 <!-- time ends -->
 </i>
 </p>

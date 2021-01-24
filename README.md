@@ -19,7 +19,6 @@
 * *starred* <a href=https://github.com/l-hammer/You-need-to-know-css target='_blank'>l-hammer/You-need-to-know-css</a> - 2020-11-24
 * *starred* <a href=https://github.com/WeiKangJian/QuestionCommunity target='_blank'>WeiKangJian/QuestionCommunity</a> - 2020-11-11
 * *forkd* <a href=https://github.com/WeiKangJian/QuestionCommunity target='_blank'>WeiKangJian/QuestionCommunity</a> - 2020-11-11
-* *pullrequestd* <a href=https://github.com/notfresh/blog_writers target='_blank'>notfresh/blog_writers</a> - 2020-10-22
 <!-- event ends -->
 </td>
 <td valign="top" width="500 px">
@@ -40,7 +39,7 @@
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2021-01-23 09:21:42
+Automatically updated on 2021-01-24 09:22:31
 <!-- time ends -->
 </i>
 </p>

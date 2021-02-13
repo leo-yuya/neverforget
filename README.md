@@ -17,8 +17,6 @@
 <!-- event starts -->
 * *starred* <a href=https://github.com/chokcoco/CSS-Inspiration target='_blank'>chokcoco/CSS-Inspiration</a> - 2020-11-24
 * *starred* <a href=https://github.com/l-hammer/You-need-to-know-css target='_blank'>l-hammer/You-need-to-know-css</a> - 2020-11-24
-* *starred* <a href=https://github.com/WeiKangJian/QuestionCommunity target='_blank'>WeiKangJian/QuestionCommunity</a> - 2020-11-11
-* *forkd* <a href=https://github.com/WeiKangJian/QuestionCommunity target='_blank'>WeiKangJian/QuestionCommunity</a> - 2020-11-11
 <!-- event ends -->
 </td>
 <td valign="top" width="500 px">
@@ -39,7 +37,7 @@
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2021-02-12 08:38:47
+Automatically updated on 2021-02-13 08:38:31
 <!-- time ends -->
 </i>
 </p>

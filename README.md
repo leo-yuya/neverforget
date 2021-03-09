@@ -15,6 +15,7 @@
 #### 🚴‍♀️ `Recent Events`
 
 <!-- event starts -->
+* *starred* <a href=https://github.com/flatlogic/material-vue target='_blank'>flatlogic/material-vue</a> - 2021-03-08
 * *starred* <a href=https://github.com/notfresh/git_faq target='_blank'>notfresh/git_faq</a> - 2021-03-05
 <!-- event ends -->
 </td>
@@ -36,7 +37,7 @@
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2021-03-08 08:42:23
+Automatically updated on 2021-03-09 08:41:31
 <!-- time ends -->
 </i>
 </p>

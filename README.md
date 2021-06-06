@@ -19,7 +19,6 @@
 * *starred* <a href=https://github.com/medcl/elasticsearch-analysis-ik target='_blank'>medcl/elasticsearch-analysis-ik</a> - 2021-05-16
 * *starred* <a href=https://github.com/robrua/easy-bert target='_blank'>robrua/easy-bert</a> - 2021-05-16
 * *starred* <a href=https://github.com/flatlogic/material-vue target='_blank'>flatlogic/material-vue</a> - 2021-03-08
-* *starred* <a href=https://github.com/notfresh/git_faq target='_blank'>notfresh/git_faq</a> - 2021-03-05
 <!-- event ends -->
 </td>
 <td valign="top" width="500 px">
@@ -40,7 +39,7 @@
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2021-06-05 09:24:18
+Automatically updated on 2021-06-06 09:18:08
 <!-- time ends -->
 </i>
 </p>

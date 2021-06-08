@@ -15,6 +15,7 @@
 #### 🚴‍♀️ `Recent Events`
 
 <!-- event starts -->
+* *starred* <a href=https://github.com/tgbot-collection/YYeTsBot target='_blank'>tgbot-collection/YYeTsBot</a> - 2021-06-07
 * *issuecommentd* <a href=https://github.com/jmaczan/basic-vue-chat target='_blank'>jmaczan/basic-vue-chat</a> - 2021-05-16
 * *starred* <a href=https://github.com/medcl/elasticsearch-analysis-ik target='_blank'>medcl/elasticsearch-analysis-ik</a> - 2021-05-16
 * *starred* <a href=https://github.com/robrua/easy-bert target='_blank'>robrua/easy-bert</a> - 2021-05-16
@@ -39,7 +40,7 @@
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2021-06-07 09:19:20
+Automatically updated on 2021-06-08 09:18:19
 <!-- time ends -->
 </i>
 </p>

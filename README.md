@@ -19,7 +19,6 @@
 * *issuecommentd* <a href=https://github.com/jmaczan/basic-vue-chat target='_blank'>jmaczan/basic-vue-chat</a> - 2021-05-16
 * *starred* <a href=https://github.com/medcl/elasticsearch-analysis-ik target='_blank'>medcl/elasticsearch-analysis-ik</a> - 2021-05-16
 * *starred* <a href=https://github.com/robrua/easy-bert target='_blank'>robrua/easy-bert</a> - 2021-05-16
-* *starred* <a href=https://github.com/flatlogic/material-vue target='_blank'>flatlogic/material-vue</a> - 2021-03-08
 <!-- event ends -->
 </td>
 <td valign="top" width="500 px">
@@ -40,7 +39,7 @@
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2021-06-09 08:57:02
+Automatically updated on 2021-06-10 08:56:26
 <!-- time ends -->
 </i>
 </p>
